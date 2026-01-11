@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179342486434",
+    "project_id": "edusage-mobile",
+    "storage_bucket": "edusage-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179342486434:android:42d443bc2bb3ab3e3da0fb",
+        "android_client_info": {
+          "package_name": "com.example.edusage_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX7HWB_xy8Fj0I-Qd0havGkcW-KhBCkug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
